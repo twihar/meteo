@@ -1,0 +1,13 @@
+.icon {
+  transform: scale(5);
+  margin:3em;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+
+}

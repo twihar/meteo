@@ -1,0 +1,25 @@
+.icon {
+  transform: scale(2);
+  margin: 3em;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.stack {
+  overflow-y: scroll;
+  max-height: 40vh;
+  padding: 3em;
+  margin: 3em;
+  width: 100%;
+  height: 100%;
+}
+
+.stack::-webkit-scrollbar {
+  display: none;
+}

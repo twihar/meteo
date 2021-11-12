@@ -1,0 +1,11 @@
+[
+  { "image": "sun.jpg", "day": "01d", "night": "01n", "state": "clear-sky" },
+  { "image": "sun.jpg", "day": "02d", "night": "02n", "state": "few-clouds" },
+  { "image": "windy.webp", "day": "03d", "night": "03n", "state": "broken-clouds" },
+  { "image": "windy.webp", "day": "04d", "night": "04n", "state": "broken-clouds" },
+  { "image": "rainy.jpeg", "day": "09d", "night": "09n", "state": "rain" },
+  { "image": "rainy.jpeg", "day": "10d", "night": "10n", "state": "rain" },
+  { "image": "snow.jpg", "day": "11d", "night": "11n", "state": "snow" },
+  { "image": "snow.jpg", "day": "13d", "night": "13n", "state": "snow" },
+  { "image": "clouds.jpg", "day": "50d", "night": "50n", "state": "clouds" }
+]
